@@ -1,0 +1,29 @@
+{
+  "study_name": "ExampleStudy",
+  "data": [
+    {
+      "name": "Questionnaire 1",
+      "active": true,
+      "event": false,
+      "alarms": [
+        {
+          "H": 9,
+          "M": 0,
+          "dur": 59,
+          "exp": 5,
+          "repeat": 2
+        }
+      ],
+      "items": [
+        {
+          "item": "item 1",
+          "type": "likert",
+          "prompt": "Do you like this configuration format?",
+          "res": 5,
+          "l_lab": "not at all",
+          "r_lab": "very much"
+        }
+      ]
+    }
+  ]
+}
