@@ -27,3 +27,9 @@ Multiple notifications can be defined for each questionnaire. A triggered notifi
 * **Fixed time or random interval**: Notifications can either trigger at set times, or can be defined to occur randomly within a set time interval (defined by a start time and inderval duration)
 * **Expiry Time**: If the watch is woken up from sleep mode before an unanswered notification is expired, it will be displayed again (this is usiful if the participant did not notice it right away, or could not respond to the initial notification).
 * **Reminder**: Unanswered notifications can be set to be elicited again for several times after they would otherwise expire.
+
+# Citation
+
+If you use this firmware in a publication, please cite as:
+
+> Volsa, S., Batinic, B., & Stieger, S. (2022). Self-Reports in the Field Using Smartwatches: An Open-Source Firmware Solution. Sensors, 22(5), 1980. https://doi.org/10.3390/s22051980
